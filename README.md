@@ -1,3 +1,7 @@
+This is a netflix clone app that was created using React.Js 
+This app was created for educational purpose only.
+This app have been hosted on firebase link: https://netflix-clone-3393d.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
